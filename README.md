@@ -5,14 +5,13 @@
 
 This project explores how accessible essential public services are to pedestrians in Shanghai, based on the concept of the **15-minute city**. It was developed using Python, GeoPandas, and public POI (Point of Interest) data.
 
-📍 Author: **Thalia Ghali**  
 📅 May 2025 – Shanghai University (UTSEUS)
 
 ---
 
 ## 🎯 Objective
 
-To evaluate **how many key services** (health, education, food, culture, etc.) are reachable **within 5, 10, and 15 minutes of walking** from every neighborhood ("village") in Shanghai.
+To evaluate ow many key services (health, education, food, culture, etc.) are reachable **within 5, 10, and 15 minutes of walking** from every neighborhood ("village") in Shanghai.
 
 ---
 
