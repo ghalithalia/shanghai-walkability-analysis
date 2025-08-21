@@ -49,7 +49,8 @@ To evaluate ow many key services (health, education, food, culture, etc.) are re
 
 ## 📄 Full Report
 
-📥 [Click here to read the full PDF](./report/accessibilité-5-10-15-Ghali.pdf)
+📥 [Click here to read the full PDF](./notebooks/accessibility-15min-shanghai-ghali.pdf)
+)
 
 ---
 
