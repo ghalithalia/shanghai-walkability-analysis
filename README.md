@@ -25,7 +25,8 @@ This project explores how accessible essential public services are to pedestrian
 
 ## 📄 Full Report
 
- [View the notebook here](./shanghai-walkability-analysis/notebooks/accessibility-15min-shanghai-ghali.pdf)
+ 📄 [View the full PDF report](./notebooks/accessibility-15min-shanghai-ghali.pdf)
+
 
 ---
 
